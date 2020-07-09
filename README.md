@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Vikram . I am a student at BMSIT,Bengaluru.
+ 🔭 I’m currently working on Twitter Bot.
+
+
 
 <!--
 **vikramborana/vikramborana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
