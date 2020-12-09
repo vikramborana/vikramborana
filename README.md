@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Vikram . I am a student at BMSIT,Bengaluru.
--🔭 I’m currently working on Twitter Bot.
+-🔭 I’m currently working on Lan Chat app.
+    Worked on Twitter bot.
 - 📫 How to reach me: Twitter - https://twitter.com/VikramBorana20
 Linkedin - https://www.linkedin.com/in/vikramborana/
 
